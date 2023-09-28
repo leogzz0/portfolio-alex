@@ -1,39 +1,29 @@
-/*==================== MENU SHOW Y HIDDEN ====================*/
+/*=============== SHOW MENU ===============*/
 
 
-/*===== MENU SHOW =====*/
-/* Validate if constant exists */
+/*=============== REMOVE MENU MOBILE ===============*/
 
 
-/*===== MENU HIDDEN =====*/
-/* Validate if constant exists */
+/*=============== SWIPER PROJECTS ===============*/
 
 
-/*==================== REMOVE MENU MOBILE ====================*/
+/*=============== SWIPER TESTIMONIAL ===============*/
 
 
-/*==================== ACCORDION SKILLS ====================*/
+/*=============== EMAIL JS ===============*/
 
 
-/*==================== QUALIFICATION TABS ====================*/
+/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 
-/*==================== SERVICES MODAL ====================*/
+/*=============== SHOW SCROLL UP ===============*/ 
 
 
-/*==================== PORTFOLIO SWIPER  ====================*/
+/*=============== DARK LIGHT THEME ===============*/ 
 
 
-/*==================== TESTIMONIAL ====================*/
+/*=============== CHANGE BACKGROUND HEADER ===============*/
 
 
-/*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
+/*=============== SCROLL REVEAL ANIMATION ===============*/
 
-
-/*==================== CHANGE BACKGROUND HEADER ====================*/ 
-
-
-/*==================== SHOW SCROLL UP ====================*/ 
-
-
-/*==================== DARK LIGHT THEME ====================*/ 
